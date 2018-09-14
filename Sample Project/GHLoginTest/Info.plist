@@ -34,9 +34,9 @@
 	<key>GHLogin</key>
 	<dict>
 		<key>client_secret</key>
-		<string>0014f7383874d668fe84201a49c6bcd074183bda</string>
+		<string>xxxx</string>
 		<key>client_id</key>
-		<string>7030f36f15e4a066510c</string>
+		<string>xxxx</string>
 		<key>url_scheme</key>
 		<string>ghlogin://</string>
 	</dict>
