@@ -2,8 +2,8 @@
 //  Login.swift
 //  GHLogin
 //
-//  Created by James McKowen on 1/17/17.
-//  Copyright © 2017 James McKowen. All rights reserved.
+//  Created by Nate Frechette on 1/17/17.
+//  Copyright © 2017 Nate Frechette. All rights reserved.
 //
 
 import Foundation
